@@ -52,6 +52,9 @@ After clicking the delete the record will be deleted from the data base
 # Displaying the  Book Details: 
 View a list of all the books in the collection with their respective details with the help of book id.
 
+![Screenshot (178)](https://github.com/Sathwik-07/Online-Book-Management-System/assets/130444732/5e7e31d8-c1b2-4a15-8282-dba5aab3848a)
+
+
 # Technologies Used
 
 This Online Book Management System is built using a one-tier architecture, where all components are located on a single machine. Here's an elaborate explanation of the technologies used and the architecture:
