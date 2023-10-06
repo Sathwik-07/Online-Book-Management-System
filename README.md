@@ -37,10 +37,17 @@ After the updation the data inside the data base also will be updated
 
 
 
-
-
 # Deleting  Book Details: 
 Remove a book entry from the collection.
+
+![Screenshot (177)](https://github.com/Sathwik-07/Online-Book-Management-System/assets/130444732/30c5df0f-6ceb-4c68-b68e-9d6edb9d6c59)
+
+After clicking the delete the record will be deleted from the data base
+
+![Screenshot (176)](https://github.com/Sathwik-07/Online-Book-Management-System/assets/130444732/b7636ca7-7725-4dd5-ac3d-9b7286f2df3c)
+
+
+
 
 # Displaying the  Book Details: 
 View a list of all the books in the collection with their respective details with the help of book id.
