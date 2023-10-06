@@ -8,7 +8,7 @@ Welcome to my Online Book Management System! This web application allows users t
 ![Screenshot (167)](https://github.com/Sathwik-07/Online-Book-Management-System/assets/130444732/fe924b3b-0b3b-4ab1-bb54-28e55b5ce074)
 
 
-### Adding New Book Details: 
+# Adding New Book Details: 
 
 Users can input information about a new book, including book name, book price and Author name.
 
@@ -24,7 +24,7 @@ After adding the book details we can see the Book details inside the data base
 
 
 
-### Updating the Book Details: 
+# Updating the Book Details: 
 Modify existing book information such as book name, book price and Author name.
 
 
@@ -39,10 +39,10 @@ After the updation the data inside the data base also will be updated
 
 
 
-### Deleting  Book Details: 
+# Deleting  Book Details: 
 Remove a book entry from the collection.
 
-### Displaying the  Book Details: 
+# Displaying the  Book Details: 
 View a list of all the books in the collection with their respective details with the help of book id.
 
 # Technologies Used
