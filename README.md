@@ -9,7 +9,9 @@ Welcome to my Online Book Management System! This web application allows users t
 
 
 ### Adding New Book Details: 
+
 Users can input information about a new book, including book name, book price and Author name.
+
 
 ![Screenshot (169)](https://github.com/Sathwik-07/Online-Book-Management-System/assets/130444732/ea72d706-e869-4e78-9190-b77b86ff60b7)
 
