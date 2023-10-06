@@ -28,6 +28,17 @@ After adding the book details we can see the Book details inside the data base
 Modify existing book information such as book name, book price and Author name.
 
 
+![Screenshot (174)](https://github.com/Sathwik-07/Online-Book-Management-System/assets/130444732/654103bd-4c1f-44d8-b8dc-d389953fcc0e)
+
+After the updation the data inside the data base also will be updated
+
+![Screenshot (175)](https://github.com/Sathwik-07/Online-Book-Management-System/assets/130444732/f92a3f02-c67f-49bc-98df-2bf574265304)
+
+
+
+
+
+
 ### Deleting  Book Details: 
 Remove a book entry from the collection.
 
