@@ -1,7 +1,5 @@
-# OnlineBook-Management-System
 
-
-Welcome to my Online Book Management System! This web application allows users to easily manage a collection of books by performing various operations like adding, updating, deleting, and displaying book details.
+Welcome to my Online Book Management System!.It is a advanced Java project. This web application allows users to easily manage a collection of books by performing various operations like adding, updating, deleting, and displaying book details.
 
 # Features
 
