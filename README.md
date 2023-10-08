@@ -93,7 +93,7 @@ Java Database Connectivity (JDBC) is utilized to establish a connection between 
 # Additional Details of this Project:
 
 ## a. One-Tier Architecture:
-I followed one-tier architecture, also known as the single-tier architecture which involves deploying all the application components (presentation, application logic, and data management) on a single machine. In this project case the Java Servlets, handling both presentation and application logic, are directly connected to the MySQL database.
+I followed one-tier architecture which also known as the single-tier architecture that involves deploying all the application components (presentation, application logic, and data management) on a single machine. In this project case the Java Servlets, handling both presentation and application logic, are directly connected to the MySQL database.
 
 ## b. Integrated Development Environment (IDE):
 Eclipse IDE is used for this project development.
