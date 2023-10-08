@@ -90,17 +90,17 @@ HTML, CSS, and Bootstrap are used to create the user interface and style the web
 ## 4. Database Connectivity:
 Java Database Connectivity (JDBC) is utilized to establish a connection between the Java application and the MySQL database. JDBC is a standard Java API for database-independent connectivity. Type 1 driver is used for this purpose, which relies on the JDBC-ODBC bridge to connect to the database.
 
-# Additional Details:
+# Additional Details of this Project:
 
 ## a. One-Tier Architecture:
-The one-tier architecture, also known as the single-tier architecture, involves deploying all the application components (presentation, application logic, and data management) on a single machine. In this case, the Java Servlets, handling both presentation and application logic, are directly connected to the MySQL database.
+I followed one-tier architecture, also known as the single-tier architecture which involves deploying all the application components (presentation, application logic, and data management) on a single machine. In this project case the Java Servlets, handling both presentation and application logic, are directly connected to the MySQL database.
 
 ## b. Integrated Development Environment (IDE):
-Eclipse IDE is used for development. It provides a comprehensive development environment for Java applications, aiding in coding, testing, and debugging.
+Eclipse IDE is used for this project development.
 
-## c. MySQL Connector/J (External JAR):
+## c. MySQL Connector:
 
-MySQL Connector/J is an external JAR (Java Archive) file that serves as the official JDBC (Java Database Connectivity) driver for MySQL. This connector allows Java applications, like our Online book management system, to connect and interact with the MySQL database.
+MySQL Connector/J is an external JAR (Java Archive) file that serves as the official JDBC (Java Database Connectivity) driver for MySQL. This connector allows this application to interact with the MySQL database.
 
 ## d. Web Server:
 
