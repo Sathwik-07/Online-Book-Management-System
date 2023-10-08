@@ -18,7 +18,7 @@ public class UpdateBookDetails extends HttpServlet{
 	    public void init() throws ServletException {
 	        try {
 	            Class.forName("com.mysql.cj.jdbc.Driver");
-	            con = DriverManager.getConnection("jdbc:mysql://localhost:3305/1eja8", "root", "Sathwikdb7*");
+	            con = DriverManager.getConnection("jdbc:mysql://localhost:3305/bookproject", "root", "Sathwikdb7*");
 	        } catch (ClassNotFoundException | SQLException e) {
 	            e.printStackTrace();
 	        }
