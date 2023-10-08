@@ -1,9 +1,22 @@
 
-Welcome to my Online Book Management System!.It is a advanced Java project. This web application allows users to easily manage a collection of books by performing various operations like adding, updating, deleting, and displaying book details.
+## Welcome to my Online Book Management System!.
+
+It is a advanced Java project. This web application allows users to easily manage a collection of books by performing various operations like adding, updating, deleting, and displaying book details.
 
 # Features
 
+This application is having 4 features they  are
+
+### (1) Adding the book details
+### (2) Updating the book details
+### (3) Deleting the book details
+### (4) Displaying the book details
+
+
+
 ![Screenshot (167)](https://github.com/Sathwik-07/Online-Book-Management-System/assets/130444732/fe924b3b-0b3b-4ab1-bb54-28e55b5ce074)
+
+
 
 
 # Adding New Book Details: 
@@ -13,9 +26,12 @@ Users can input information about a new book, including book name, book price an
 
 ![Screenshot (169)](https://github.com/Sathwik-07/Online-Book-Management-System/assets/130444732/ea72d706-e869-4e78-9190-b77b86ff60b7)
 
+
 ![Screenshot (168)](https://github.com/Sathwik-07/Online-Book-Management-System/assets/130444732/9159ce7a-d96a-4f4f-9d8c-56b454df13dd)
 
+
 After adding the book details we can see the Book details inside the data base 
+
 
 ![Screenshot (162)](https://github.com/Sathwik-07/Online-Book-Management-System/assets/130444732/e71a8632-01d6-4651-8f95-cb8a8ee15381)
 
